@@ -1,0 +1,18 @@
+.container{
+    width: 18vw;
+    height: 60vh;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+#qr{
+    width: 92%;
+    height: 60%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
